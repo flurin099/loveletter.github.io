@@ -63,7 +63,7 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid pink;
     border-radius: 10px;
-    background-image: url("Images/heart.gif");
+    background-image: url("./Images/heart.gif");
     background-size: cover;
     margin-bottom: 50px;
 }
@@ -74,13 +74,13 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid pink;
     border-radius: 10px;
-    background-image: url("Images/gift-cover.jpg");
+    background-image: url("./Images/gift-cover.jpg");
     background-size: cover;
     margin-bottom: 50px;
 }
 
 #gift-img-happy:hover {
-    background-image: url("Images/tohot.gif");
+    background-image: url("./Images/tohot.gif");
     background-size: 600px;
     background-repeat: no-repeat;
 
@@ -88,7 +88,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-hot:hover {
-    background-image: url("Images/sillyriga.jpg");
+    background-image: url("./Images/sillyriga.jpg");
     background-size: 300px;
     display: block;
     background-repeat: no-repeat;
@@ -96,13 +96,13 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-genius:hover {
-    background-image: url("Images/mewithbaby.gif");
+    background-image: url("./Images/mewithbaby.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("Images/world.gif");
+    background-image: url("./Images/world.gif");
 }
 
 #gift-img-gift:hover {
-    background-image: url("Images/armband.gif");
+    background-image: url("./Images/armband.gif");
 }
